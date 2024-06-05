@@ -1,5 +1,6 @@
 import { AllInOneSolution } from "@/components/AllInOneSolution";
 import { Footer } from "@/components/Footer";
+import { HostingYouGet } from "@/components/HostingYouGet";
 import { ImageStack } from "@/components/ImageStack";
 import { ProductSection } from "@/components/ProductSection";
 import SiteJetBuilder from "@/components/SiteJetBuilder";
@@ -17,6 +18,7 @@ export default function Home() {
     <SiteJetBuilder />
     <AllInOneSolution />
     <TrustPilotReviews />
+    <HostingYouGet />
     </>
   );
 }

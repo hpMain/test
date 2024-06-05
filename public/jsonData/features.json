@@ -1,0 +1,8 @@
+{
+    "features": [
+      ["User Manager", "Backups", "SitePad Website Builder", "1-Click Installer", "Multiple PHP versions", "File Manager", "FTP Over SSL", "DNS Management", "Webmail Access"],
+      ["PHP Configuration", "PHP INI Editor", "Apache Handlers", "phpMyadmin", "Cache Manager", "Cron jobs", "Cloudlinux OS", "Curl enabled", "Hotlink Protection"],
+      ["LiteSpeed Web Server", "Unlimited Sub Domains", "Unlimited FTP Accounts", "SMTP, POP3, IMAP", "Application Manager", "Auto responders", "Git™ Version Control", "Imunify360 Protection", "IP Blocker"],
+      ["Leech Protection", "ModSecurity", "Optimize Website", "Remote MySQL®", "Resource Usage", "Site Jet Website Builder", "Softaculous Apps Installer", "& many more..."]
+    ]
+  }
