@@ -1,4 +1,6 @@
 import { NavBar } from "@/components/navBar";
+import "@fontsource/montserrat/400.css";
+import "@fontsource/montserrat/700.css";
 import "./global.css";
 export const metadata = {
   title: 'Next.js',

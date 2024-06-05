@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-export default function SiteJetBuilder() {
+export function SiteJetBuilder() {
     return (
         <div className="flex flex-col items-center justify-center w-full h-auto mt-5">
             <div className="p-10 flex flex-col lg:flex-row ms:flex-col-reverse items-center justify-between max-w-[1000px] gap-5 bg-white shadow-md rounded-lg border-double border-l-8 border-[red] ml-10 mr-10">
