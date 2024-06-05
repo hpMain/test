@@ -7,10 +7,10 @@ export function AllInOneSolution() {
 
     return (<>
         <Divider marginTop="5px"/>
-        <div className="flex flex-row bg-[#b3e0ff] w-full h-fit justify-center items-center pt-5" >
+        <div className="flex flex-row bg-[#b3e0ff] w-full h-fit justify-center items-center pt-6" >
             <div className="flex flex-col dm:flex-row max-w-[1200px] justify-center items-center ml-5 mr-5">
                 <div className="flex flex-col max-w-[700px] mb-0 gap-2">
-                    <h2 className="text-xl md:text-3xl font-bold text-left mb-2 sm:mb-4 text-center dm:text-left">FULLY INTEGRATED DIY WEBSITE BUILDER</h2>
+                    <h2 className="text-2xl md:text-3xl font-bold text-left mb-2 sm:mb-4 text-center dm:text-left">FULLY INTEGRATED DIY WEBSITE BUILDER</h2>
                     <p className="text-lg text-left tracking-wide text-center dm:text-left">
                         Explore a diverse selection of over 140 designer templates tailored to every industry, easily personalize them with pre-built elements to suit your requirements - all without the need for coding (but feel free to code if you prefer).
                     </p>
