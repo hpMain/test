@@ -8,7 +8,7 @@ const ProductItem = ({ Icon, title, description, href }: { Icon: IconType, title
             <Icon style={{ width: "40px", height: "40px" }} />
         </span>
         <h2 className="text-xl mb-2">{title}</h2>
-        <p className="mb-4">{description}</p>
+        <p className="mb-4 h-[110px]">{description}</p>
         <Link href={href} className="bg-black text-white px-10 py-2 rounded-sm w-full border-2 border-black hover:bg-white hover:text-[#383838] hover:border-black transition-all duration-300">
             EXPLORE NOW
         </Link>
