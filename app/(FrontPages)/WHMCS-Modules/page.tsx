@@ -1,5 +1,6 @@
 import { ImageStack } from "@/components/ImageStack";
 import { ProductSection } from "@/components/ProductSection";
+import WhyOurModules from "@/components/WhyOurModules";
 import Divider from "@/components/divider";
 import Image from "next/image";
 
@@ -29,6 +30,7 @@ export default function WHMCSModules() {
         <Divider marginTop="-20px" marginBottom="0"/>
         <ImageStack />
         <ProductSection />
+        <WhyOurModules />
 
   </>);
 }

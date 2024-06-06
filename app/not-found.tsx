@@ -21,10 +21,10 @@ export default function NotFound() {
           height: "auto"
         }}
       />
-      <p className="text-center">This page isn't available. Sorry about that.
+      <p className="text-center">This page isn&apos;t available. Sorry about that.
         <br />
         Try searching for something else.</p>
-      {/* <Link href="/" className="px-5 py-2 bg-[#1f2937] rounded-sm text-white">Go to the home page</Link> */}
+      <Link href="/" className="px-5 py-2 bg-[#1f2937] rounded-sm text-white">Go to the home page</Link>
     </div>
   )
 }
