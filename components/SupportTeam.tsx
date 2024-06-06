@@ -35,7 +35,7 @@ export function SupportTeam() {
                 </div>
             </div>
         </div>
-        <Divider marginTop='-20px' marginBottom='20px' />
+        <Divider marginTop='-20px' marginBottom='0px' />
     </>);
 }
 

@@ -22,7 +22,7 @@ export function GoogleReviews() {
             <div className='flex flex-col justify-center items-center max-w-[1000px] ml-5 mr-5 w-full'>
                 <div className="flex flex-wrap gap-8 justify-center w-full">
                     {reviews.map((review, index) => (
-                        <div key={index} className="p-4 bg-white rounded-lg shadow-md w-[300px]">
+                        <div key={index} className="p-4 bg-white rounded-lg shadow-md w-[310px]">
                             <div className="flex items-center mb-2">
                                 <Image
                                     src="/Images/Logo/BrandLogo/GoogleLogo.png"

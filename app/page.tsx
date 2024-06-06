@@ -10,6 +10,7 @@ import { WhyChooseUs } from "@/components/WhyChooseUs";
 import { SupportTeam } from "@/components/SupportTeam";
 import Divider from "@/components/divider";
 import { GoogleReviews } from "@/components/GoogleReviews";
+import { WhySharedLicenses } from "@/components/WhySharedLicenses";
 
 export default function Home() {
   return (
@@ -25,6 +26,7 @@ export default function Home() {
     <MaxWebsiteSpeed />
     <SupportTeam />
     <GoogleReviews />
+    <WhySharedLicenses />
     </>
   );
 }
