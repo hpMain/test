@@ -69,8 +69,8 @@ export function NavBar() {
                     </span>
                     <span className="flex flex-row justify-center items-center gap-4">
                         <ul className={navBarMenu}>
-                            <Link href="/WhmcsModules"><li className={navMenu}>WHMCS Modules</li></Link>
-                            <Link href="/Shared-License"><li className={navMenu}>Shared License</li></Link>
+                            <Link href="/WHMCS-Modules"><li className={navMenu}>WHMCS Modules</li></Link>
+                            <Link href="/Shared-Licenses"><li className={navMenu}>Shared License</li></Link>
                             <Link href="/Shared-Hosting"><li className={navMenu}>Shared Hosting</li></Link>
                             <Link href="/Reseller-Hosting"><li className={navMenu}>Reseller Hosting</li></Link>
                         </ul>

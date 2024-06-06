@@ -5,5 +5,6 @@
     background-color: #fbfbfb;
     --divider-bg-color: #fbfbfb;
     font-family: "Montserrat", sans-serif;
+    user-select: none;
 }
 

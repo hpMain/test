@@ -1,5 +1,6 @@
 import { FaPhoneAlt, FaEnvelope } from "react-icons/fa";
 import Link from "next/link";
+import Divider from "./divider";
 
 const footerSectionDiv = "flex flex-col gap-2 p-2 text-white"
 const footerSectionTitle = "text-xl font-bold"
@@ -7,12 +8,12 @@ const footerSectionUl = "flex flex-col gap-2"
 
 export function Footer() {
     return (<>
-    <div className="divider mb-[-20px]" />
+    <Divider marginTop=""/>
         <div className="flex sm:flex-row flex-col align-center sm:gap-5 justify-center pt-3 sm:justify-around sm:pt-5 bg-red-600 text-white pb-2">
             <span className="flex-1 flex items-center text-xl gap-2 justify-center"><FaPhoneAlt /> +91 94677-78159</span>
             <span className="flex-1 flex items-center text-xl gap-2 justify-center"><FaEnvelope /> support@hostingprovider.co.in</span>
         </div>
-        <div className="flex flex-col gap-2 p-2">
+        <div className="flex flex-col gap-2 p-2 bg-[#1f2937]">
             <div className="flex flex-row justify-center align-center w-full h-fit">
                 <div className="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-5 gap-4 p-4 max-w-[1200px] w-full">
                     <div className={footerSectionDiv}>
