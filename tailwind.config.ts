@@ -16,6 +16,16 @@ const config: Config = {
       'xl': '1280px',
       '2xl': '1536px',
     },
+    letterSpacing: {
+      tightest: '-.075em',
+      tighter: '-.05em',
+      tight: '-.025em',
+      normal: '0',
+      wide: '.025em',
+      wider: '.05em',
+      widest: '.1em',
+      extraWidest: '.25em',
+    },
     extend: {
       listStyleImage: {
         checkmark: 'url("/public/Images/Logo/WhyChooseUs/CheckMarkIcon.svg") w-5 h-[5px]',

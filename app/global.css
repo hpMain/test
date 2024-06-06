@@ -2,8 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 :root {
-    background-color: #fbfbfb;
-    --divider-bg-color: #fbfbfb;
+    background-color: #f2f0f0;
+    --divider-bg-color: #f2f0f0;
     font-family: "Montserrat", sans-serif;
     user-select: none;
 }

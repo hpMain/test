@@ -16,7 +16,7 @@ const images = [
     { src: "/Images/Logo/BrandLogo/Shared cPanel License.png", alt: "Shared cPanel License" },
     { src: "/Images/Logo/BrandLogo/Shared CloudLinux License.webp", alt: "Shared CloudLinux License" },
     { src: "/Images/Logo/BrandLogo/Shared LiteSpeed License.webp", alt: "Shared LiteSpeed License" },
-    { src: "/Images/Logo/BrandLogo/Shared Imunify360 License.webp", alt: "Shared Imunify360 License" },
+    { src: "/Images/Logo/BrandLogo/Shared Imunify360 license.webp", alt: "Shared Imunify360 License" },
     { src: "/Images/Logo/BrandLogo/Shared Plesk License.webp", alt: "Shared Plesk License" }
 ];
 export function ImageStack() {
